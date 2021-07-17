@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+body{
+    background:#8286a3;
+    margin:0px;
+    width:100%;
+}
+.bar{
+    background:#073C6F;
+    border-radius:0px;
+    text-align:center;
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    color:#B33045;
+    height:40px;
+    width:100%;
+    padding-top:0%;
+    position: fixed;
+}
+button{
+    background:#B33044;
+    color:black;
+    width:60px;
+    height:30px;
+   border-radius: 10px;
+   border:0px;
+   
+   font-family: 'Anton', sans-serif;
+   font-size: 15px;
+}
+button:hover{
+    background:#719B84;
+    color:white;
+   border-radius: 10px;
+   border:0px;
+  
+}
+#myw{
+    width:300px;
+    height:40px;
+    border-radius: 10px;
+    border: 0px;
+    text-align:center;
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
+}
+#myp{
+    width:300px;
+    height:40px;
+    border-radius: 10px;
+    border: 0px;
+    text-align:center;
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
+}
+#O{
+    width:100px;
+    height:40px;
+    border-radius: 10px;
+    border: 0px;
+    text-align:center;
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
+}
+.po{
+position: relative;
+
+/*left:495px;*/
+top:20%;
+
+}
+FIEST{
+    font-family: 'Anton', sans-serif;
+}
+#ope{
+    width:100px;
+   height:40px;
+   border-radius: 10px;
+   border: 0px;
+   text-align:center;
+   font-family: 'Anton', sans-serif;
+   font-size: 20px;
+}
+/*.uip{
+    position: relative;
+    float:right;
+    right:400px;
+    bottom:100px;
+}*/
+.up{
+    position: relative;
+    bottom:10px;
+}
